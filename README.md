@@ -1,5 +1,5 @@
-# CRD-UVAD
-official code for "CRD-UVAD"
+# FRD-UVAD
+official code for "FRD-UVAD"
 ## Our model compares with SOTA methods in fully unsupervised video anomaly detection
 CUHK Avenue|ShanghaiTech|UCF-Crime
 ---|---|---
