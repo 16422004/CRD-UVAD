@@ -7,7 +7,7 @@ running environment config is in *requirements.txt*
 
 ## for inference:
 ```
-run run_tesh.sh
+./run_tesh.sh
 ```
 ## Our model compares with SOTA methods in fully unsupervised video anomaly detection
 CUHK Avenue|ShanghaiTech|UCF-Crime
